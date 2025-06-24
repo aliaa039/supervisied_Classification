@@ -1,0 +1,8 @@
+# Ignore Node modules and VSCode extensions
+node_modules/
+.vscode/
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+.env
